@@ -14,7 +14,7 @@ GitHubのtag（release）で対象の tagを選択し、release情報を登録�
 （commitハッシュ情報を基に作成しているため、おそらく対象としたものだけを収集すると思われる　未確認）
 
 gitコマンド
-- git tag :tagの確認
+- git tag ：tagの確認
 - git push origin タグ名：tagのpush
 - git tag -d タグ名：対象tagの削除。
 
