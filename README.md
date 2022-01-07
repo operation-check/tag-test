@@ -2,6 +2,7 @@
 
 ### 1.tagからrelease作成
 localで tagを作成し、GitHubへ push
+
 Visual Studioで tagの設定はできるが、そのまま pushしても GitHubへは反映されなかった。
 また tagを間違って付けたとき削除することもできなかった。
 local gitを消すと tag情報は消えてしまうので注意。
